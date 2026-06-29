@@ -1,0 +1,11 @@
+# SO / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# dependências (não usadas, mas por segurança)
+node_modules/
+
+# Vercel
+.vercel/
