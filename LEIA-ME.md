@@ -14,7 +14,7 @@ Mantenha a estrutura: `css/`, `js/`, `assets/`.
 
 ## Contatos (já configurados)
 - WhatsApp: +55 71 9611-2541 — botão e formulário abrem a conversa já preenchida.
-- E-mail: felipeflb@outlook.com
+- E-mail: contato@felipefraga.arq.br
 - Instagram: @felipefraga.arq
 - Confira se o número do WhatsApp disca certo (transcrito do print).
 

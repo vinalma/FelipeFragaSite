@@ -37,7 +37,11 @@
     { base: "casacor/casa-06", cat: "casacor", label: "CasaCor SP 2026" },
     { base: "casacor/casa-07", cat: "casacor", label: "CasaCor SP 2026" },
     { base: "casacor/casa-08", cat: "casacor", label: "CasaCor SP 2026" },
-    { base: "casacor/casa-09", cat: "casacor", label: "CasaCor SP 2026" }
+    { base: "casacor/casa-09", cat: "casacor", label: "CasaCor SP 2026" },
+    { base: "quartonf/quarto-01", cat: "quartonf", label: "Quarto Nathy" },
+    { base: "quartonf/quarto-02", cat: "quartonf", label: "Quarto Nathy" },
+    { base: "quartonf/quarto-03", cat: "quartonf", label: "Quarto Nathy" },
+    { base: "quartonf/quarto-04", cat: "quartonf", label: "Quarto Nathy" }
   ];
 
   /* ---------- Projetos (case studies) ---------- */
@@ -59,11 +63,19 @@
       ]
     },
     casacor: {
-      label: "CasaCor SP 2026", eyebrow: "Mostra", cover: "casacor/casa-01",
-      meta: [["Tipologia", "Mostra"], ["Local", "São Paulo / SP"], ["Ano", "2026"]],
+      label: "CasaCor SP 2026", eyebrow: "Inspiração", cover: "casacor/casa-01",
+      meta: [["Caráter", "Visita · Referências"], ["Local", "São Paulo / SP"], ["Ano", "2026"]],
       paras: [
-        "A participação na maior mostra de arquitetura e decoração das Américas. Um ambiente concebido como experiência sensorial — luz baixa, cores marcantes e materiais nobres.",
-        "Mais do que decorar, o espaço propõe uma atmosfera: envolvente, autoral e memorável. Uma síntese da linguagem do ateliê em escala de mostra."
+        "A CasaCor SP é a maior mostra de arquitetura e decoração das Américas — uma vitrine das tendências que pautam o mercado. Felipe esteve lá não como expositor, mas para contemplar, estudar e se atualizar.",
+        "Acompanhar de perto o que há de mais novo em materiais, paletas e soluções faz parte do processo: alimenta o repertório e mantém os projetos do ateliê sempre atuais. As imagens abaixo são registros dessa imersão."
+      ]
+    },
+    quartonf: {
+      label: "Quarto Nathy", eyebrow: "Residencial", cover: "quartonf/quarto-01",
+      meta: [["Tipologia", "Quarto / Suíte"], ["Local", "Salvador / BA"], ["Escopo", "Interiores + Marcenaria"]],
+      paras: [
+        "Um quarto pensado como refúgio pessoal: madeira, tons terrosos e iluminação suave criam um ambiente acolhedor e tranquilo, feito para o descanso.",
+        "A marcenaria sob medida organiza guarda-roupa e penteadeira com elegância, aproveitando cada canto sem pesar. Um ambiente sofisticado, quente e profundamente confortável."
       ]
     }
   };
